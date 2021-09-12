@@ -1,0 +1,22 @@
+{
+  "name": "info.byronbrown.examplename",
+  "version": "1.0.0",
+  "displayName": "display name",
+  "description": "desc ...",
+  "unity": "2019.1",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+
+ },
+ "keywords": [
+
+  ],
+  "author": {
+    "name": "Byron Brown",
+    "email": "byronrb92@gmail.com",
+    "url": "https://www.byronbrown.info"
+  }
+}
